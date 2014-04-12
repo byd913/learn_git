@@ -5,3 +5,5 @@ Create a new branch is so quick
 Create a new branch is quick AND simple
 make some changes
 fix bug
+change2
+change 1
